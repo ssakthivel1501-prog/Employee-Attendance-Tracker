@@ -6,7 +6,7 @@ This project is structured as an industry-standard database backend, featuring a
 
 ---
 
-## 🚀 Features
+## 🚀 Feature
 
 - **3NF Normalized Schema**: Clean relational database model consisting of 4 primary tables: `Departments`, `Employees`, `Attendance`, and `LeaveRequests`, and 1 auxiliary table: `EmployeeAuditLog`.
 - **Dynamic Attendance Status**: Automated check-in/out logic via stored procedures that classify employee status (`Present`, `Late`, `Half-Day`, `Absent`).
